@@ -1,3 +1,5 @@
 //JAVASCRIPT!!!!!
 const output = document.getElementById("output");
-output.innerHTML = "<p> Hello World, Hello World, Hello World, Hello World, Hello World, Hello World, Hello World, Hello World, Hello World, Hello World </p>";
+for (let i = 0; i < 10; i++){
+   output.innerHTML = "<p>Hello World, </p>";
+}
