@@ -1,3 +1,3 @@
 //JAVASCRIPT!!!!!
-const output = document.getElementByID("output");
+const output = document.getElementById("output");
 output.innerHTML = "<p> Hello World </p>";
